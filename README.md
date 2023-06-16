@@ -4,7 +4,7 @@ This repository contains a custom pattern for the ImHex Hex Editor, specifically
 ## About the Pattern
 The pattern we've developed is based on the TIFF 6.0 specification, which can be found [here](https://developer.adobe.com/content/dam/udp/en/open/standards/tiff/TIFF6.pdf). This specification provides a detailed description of the TIFF file format, which is widely used for storing raster graphics images.
 
-Our pattern allows users of the ImHex Hex Editor to easily decode and analyze the binary structure of TIFF files, providing a valuable tool for anyone working with this file format.
+Our pattern allows users of the ImHex Hex Editor to easily decode and analyze the binary structure of TIFF files, providing a valuable tool for anyone working with this file format. This pattern has been incorporated into the official ImHex repository, making it readily available for the ImHex user community.
 
 ## Usage
 To use this pattern, simply download the .hexpat file from this repository and load it into ImHex. Once loaded, you can use it to analyze any TIFF file.
