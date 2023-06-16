@@ -10,7 +10,7 @@ Our pattern allows users of the ImHex Hex Editor to easily decode and analyze th
 To use this pattern, simply download the .hexpat file from this repository and load it into ImHex. Once loaded, you can use it to analyze any TIFF file.
 
 ## Citing This Work
-This project has been registered with Zenodo and has been assigned a DOI (Digital Object Identifier). The DOI for this project is: 
+This project has been registered with Zenodo and has been assigned a DOI (Digital Object Identifier). The DOI for this project is: **10.5281/zenodo.8047475**
 
 If you use this pattern in your research or in any other project, we kindly ask that you cite this work. You can use the following citation:
 
@@ -22,15 +22,15 @@ If you use this pattern in your research or in any other project, we kindly ask 
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourGithubUsername/yourRepositoryName}},
-  doi = {[DOI placeholder]}
+  howpublished = {\url{https://github.com/jacksonbarreto/ImHex-Pattern-for-TIFF-Files}},
+  doi = {10.5281/zenodo.8047475}
 }
 ```
 
 ## Acknowledgements
 We would like to acknowledge the support of the Norte Portugal Regional Operational Programme (NORTE 2020), under the PORTUGAL 2020 Partnership Agreement, through the European Regional Development Fund (ERDF), within the project "Cybers SeC IP" (NORTE-01-0145-FEDER-000044).
 
-This pattern was developed under the guidance of Professor António Pinto as part of a project for the Cybercrime and Digital Forensic Analysis course in the Master's program in Cybersecurity at the Polytechnic University of Viana do Castelo.
+This pattern was developed under the guidance of Professor António Pinto (ORCID 0000-0002-5583-5772) and Pedro Pinto (ORCID 0000-0003-1856-6101) as part of a project for the Cybercrime and Digital Forensic Analysis course in the Master's program in Cybersecurity at the Polytechnic University of Viana do Castelo.
 
 ## Contributing
 We welcome contributions to this project. If you have any improvements or additions to the pattern, please feel free to make a pull request.
